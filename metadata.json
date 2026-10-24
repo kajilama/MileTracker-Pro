@@ -1,0 +1,8 @@
+{
+  "name": "MileTracker Pro",
+  "description": "Smart GPS mileage and business expense tracker with free interactive maps, address autocomplete, IRS deductions, and Google Drive sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

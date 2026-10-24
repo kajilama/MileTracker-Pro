@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Teal Glowing Circle Base -->
+    <path
+        android:fillColor="#0D9488"
+        android:pathData="M54,20c18.78,0 34,15.22 34,34s-15.22,34 -34,34 -34,-15.22 -34,-34 15.22,-34 34,-34z" />
+
+    <!-- Inner Emerald Accent -->
+    <path
+        android:fillColor="#14B8A6"
+        android:pathData="M54,26c15.46,0 28,12.54 28,28s-12.54,28 -28,28 -28,-12.54 -28,-28 12.54,-28 28,-28z" />
+
+    <!-- White Navigation / Vehicle Arrow & Odometer Lines -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,34L68,68L54,61L40,68z" />
+
+    <!-- Spark / Dropoff Star Accent -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,44l2.2,4.8 5.2,0.8 -3.8,3.7 0.9,5.2 -4.5,-2.4 -4.5,2.4 0.9,-5.2 -3.8,-3.7 5.2,-0.8z" />
+</vector>

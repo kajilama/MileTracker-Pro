@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MileTracker Pro</string>
+    <string name="welcome_title">MileTracker Pro</string>
+    <string name="welcome_subtitle">Smart mileage tracking, IRS deductions, and cloud backup</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="continue_as_guest">Continue as Guest</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
